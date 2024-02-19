@@ -1,0 +1,8 @@
+1. design html (do elements with id)
+2. get ids on javascript
+3. get the input value and store in a variable
+4. create a function that returns the converted units in both metric and imperial
+inside the function:
+5. Create formulae that would compute the lenght, volume and mass in both system and store these respectively in a variable.
+6. user innerHTML to display the new computed values
+7. addEventListener to the convert button which would invoke the function
